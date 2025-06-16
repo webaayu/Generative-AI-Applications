@@ -1,0 +1,3 @@
+discord
+gradio-client
+python-dotenv
